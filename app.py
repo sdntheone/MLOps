@@ -17,3 +17,9 @@ st.subheader('deep learning')
 st.subheader('data analysis and machine learning')
 st.subheader('DSA')
 # st.subheader('mysql')
+st.sidebar.title('Menu')
+st.sidebar.markdown("""
+- Home
+- About
+- Contact
+""")
